@@ -1703,3 +1703,17 @@ input, select, textarea {
 			min-width: 100%;
 			min-height: 100%;
 		  }
+		  .w3-tag{
+			  background-color:#000;
+			  color:#fff;
+			  display:inline-block;
+			  padding-left:8px;
+			  padding-right:8px;
+			  text-align:center}
+			  
+		
+		.w3-blue{color:#fff!important;background-color:#2196F3!important}
+
+		.w3-large{font-size:18px!important}
+
+		.w3-xlarge{font-size:24px!important}.w3-xxlarge{font-size:36px!important}
