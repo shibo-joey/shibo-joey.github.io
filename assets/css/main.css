@@ -1643,6 +1643,7 @@ input, select, textarea {
 		max-width: 100%;
 		margin-top: 2rem;
 		text-align: center;
+		text-decoration: none;
 	}
 
 		#footer .copyright {
@@ -1651,6 +1652,7 @@ input, select, textarea {
 			opacity: 0.75;
 			margin-bottom: 0;
 			text-transform: uppercase;
+			text-decoration: none;
 		}
 
 		body.is-article-visible #footer {
@@ -1717,3 +1719,12 @@ input, select, textarea {
 		.w3-large{font-size:18px!important}
 
 		.w3-xlarge{font-size:24px!important}.w3-xxlarge{font-size:36px!important}
+
+
+
+		img.mt {
+			margin-bottom: -5px
+		}
+
+	
+	
